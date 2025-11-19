@@ -50,11 +50,11 @@ int main()
 /*
 OUTPUT
 
-Enter name: vishesh
-Enter age: 20
+Enter name: Dev
+Enter age: 18
 Enter marks: 80
-Name : vishesh
-Age  : 20
+Name : Dev
+Age  : 18
 Marks: 80
 
 */
