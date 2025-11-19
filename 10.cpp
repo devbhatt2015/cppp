@@ -36,10 +36,10 @@ int main()
 /*
 OUTPUT
 
-Enter name: vishesh
+Enter name: Dev
 Enter roll no: 11
 Enter marks: 80
-Name: vishesh
+Name: Dev
 Roll No: 11
 Marks: 80
 
